@@ -1,0 +1,8 @@
+Item_name (APOSTROPHE IS NOT ALLOWED),Item_Category (APOSTROPHE IS NOT ALLOWED),Item_description,"Status (Publish=1 ,Unpublish=0 )","Size with Price (Use "" , "" to separate Sizes)(for only price add like (-price),for only size add like (size-)",      Discount (%),"addon_category (Use "" , "" to separate Add-Ons)","Add-Ons with Price addon name-price(Use "" , "" to separate Add-Ons)",(NOTE:- ADD ITEMS AFETR FIRST 2 LINES)
+Veg Burgerizza,Burger,Mushroom  Beef Burger,1,"Small-50, Medium-70, Large-50",10.00%,"cat1,cat2,cat3","Add-Ons with Price addon name-price(Use "" , "" to separate Add-Ons)",
+new product1,veg,Mushroom  Beef Burger,1,"Small-1.20, Medium-2.30, Large-3.40",10.00%,"cat1,cat2,cat3","add1-45, add2-40,add3-56",
+new product2,non veg,Mushroom  Beef Burger,1,"Small-1.24, Medium-2.35, Large-3.41",10.00%,NA,NA,
+new product3,veg,Mushroom  Beef Burger,1,"Small-1.26, Medium-2.37, Large-3.42",10.00%,"cat5,cat6,cat7","add7-47, add8-42,add9-58",
+new product4,non veg,Mushroom  Beef Burger,1,"Small-1.28, Medium-2.39, Large-3.43",10.00%,"cat11,cat22,cat44","add4-46, add5-41,add6-57",
+new product5,veg,Mushroom  Beef Burger,1,"Small-1.29, Medium-2.377, Large-3.447",10.00%,NA,NA,
+ 
